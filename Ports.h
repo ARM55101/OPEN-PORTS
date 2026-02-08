@@ -10,4 +10,5 @@
 #define AFP 548 // Apple Filing Protocol over TCP
 #define WC 500 //wifi calling
 
-//This library should only be used over a secure socket layer libaray like sys/socket.h with netinet/in.h 
+//This library should only be used over a secure socket layer libaray like//
+//sys/socket.h with netinet/in.h//
