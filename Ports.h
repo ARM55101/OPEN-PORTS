@@ -5,8 +5,9 @@
 #define SMTP 25 // Simple Mail Transfer Protocol 
 #define HTTP 80 // Hypertext Transfer Protocol 
 #define NETBIOS 138 // NetBIOS Datagram Service
-#define LDAP 389
-#define SSL 443
-#define AFP 548
+#define LDAP 389 // Lightweight Directory Access Protocol
+#define SSL 443 // Secure Sockets Layer  (HTTPS)
+#define AFP 548 // Apple Filing Protocol over TCP
 #define WC 500 //wifi calling
 
+//This library should only be used over a secure socket layer libaray like sys/socket.h with netinet/in.h 
