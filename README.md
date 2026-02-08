@@ -1,4 +1,3 @@
 # Objective-P
 
-<img width="512" height="512" alt="image_1770549380146_yo6knb" src="https://github.com/user-attachments/assets/eea9724d-1aff-4b84
-b340-6cdd4281bc99" />
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/e62193c1-9387-4e96-b0c5-55637017ca60" />
