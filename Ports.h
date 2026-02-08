@@ -1,3 +1,5 @@
+//This code is simply an experimental project//
+
 #define APN 5223
 #define SSH 22
 #define SMTP 25
@@ -6,5 +8,5 @@
 #define LDAP 389
 #define SSL 443
 #define AFP 548
-#define WC 500
+#define WC 500 //wifi calling
 
