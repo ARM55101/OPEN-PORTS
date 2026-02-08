@@ -5,4 +5,6 @@
 #define NETBIOS 138
 #define LDAP 389
 #define SSL 443
+#define AFP 548
+#define Wifi-Calling 500
 
