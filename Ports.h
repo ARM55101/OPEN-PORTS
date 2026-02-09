@@ -36,5 +36,11 @@
 #define ASMTP 587 // Authenticated SMTP
 #define APNS 2197 //	Apple Push Notification Service
 
+struct port
+{
+   int number;
+   int hash;
+};
+
 //This library should only be used over a secure socket layer libaray like//
 //sys/socket.h with netinet/in.h//
